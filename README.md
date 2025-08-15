@@ -24,11 +24,11 @@ pip install pandas requests matplotlib seaborn scikit-learn imbalanced-le
 keyboard_arrow_down
 Uso
 Clona este repositorio:
-git clone https://github.com/tu_usuario/tu_repositorio.git
+git clone https://github.com/kbarrientosm/TelecomX_parte2_Latam.git
 Navega al directorio del repositorio:
-cd tu_repositorio
+cd TelecomX_parte2_Latam
 Abre el notebook en Jupyter (o Google Colab):
-jupyter notebook nombre_del_notebook.ipynb
+jupyter notebook TelecomX_parte2_Latam.ipynb
 spark
 Gemini
 Ejecuta las celdas del notebook secuencialmente para replicar el análisis y los resultados.
