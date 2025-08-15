@@ -1,5 +1,6 @@
 # TelecomX_parte2_Latam
 Challenge 3 Alura Latam
+
 Descripción
 Este repositorio contiene el análisis y los modelos predictivos desarrollados para identificar y predecir la evasión de clientes (Churn) en TelecomX. Se realizó un análisis exploratorio de datos (EDA) para comprender los factores influyentes y se construyeron modelos de clasificación para prever la probabilidad de que un cliente cancele su servicio.
 
@@ -42,29 +43,22 @@ Modelado Predictivo: Entrenamiento de modelos de clasificación para predecir Ch
 Evaluación del Modelo: Medición del rendimiento de los modelos utilizando métricas de clasificación.
 Interpretación de Resultados: Análisis de la importancia de las variables y los hallazgos clave.
 Conclusiones y Recomendaciones: Resumen de los insights obtenidos y propuestas de estrategias de retención.
+
 Conclusiones Clave
 📊 Hallazgos del Análisis Exploratorio (EDA)
 Clientes con contrato mes a mes presentan una tasa de Churn significativamente mayor en comparación con contratos anuales.
-
 Facturación electrónica está asociada a un mayor abandono, posiblemente por falta de engagement.
-
 Clientes con mayores cargos mensuales tienden a cancelar más frecuentemente.
 
 🤖 Resultados de los Modelos Predictivos
 Random Forest obtuvo el mejor desempeño:
-
-Precisión: XX%
-
+Precisión
 Recall (Churn): (crítico para identificar clientes en riesgo).
-
 AUC-ROC:  (buena capacidad de discriminación).
 
 Variables más importantes:
-
 Duración del contrato (contratos cortos = mayor riesgo).
-
 Cargos mensuales (clientes con facturas altas más propensos a irse).
-
 Servicios adicionales (clientes con más servicios tienen menor Churn).
 
 Recomendaciones Estratégicas
@@ -72,9 +66,10 @@ Recomendaciones Estratégicas
 ✅ Programas de fidelización: Ofertas personalizadas para clientes con facturación electrónica.
 ✅ Alertas tempranas: Monitorear clientes con cargos altos y ofrecer soporte proactivo.
 ✅ Mejorar engagement: Campañas de retención para usuarios con pocos servicios adicionales.
+
 Autor
 Keyla Barrientos
-[Enlace a tu perfil de GitHub u otro contacto]
+
 Licencia
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
 
